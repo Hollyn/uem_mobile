@@ -1,0 +1,6 @@
+framework module Pods_University_Events_Management {
+  umbrella header "Pods-University Events Management-umbrella.h"
+
+  export *
+  module * { export * }
+}
